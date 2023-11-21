@@ -56,7 +56,7 @@ The [Adobe I/O Key/Value Storage library](https://github.com/adobe/aio-lib-state
 
 ### Filesystem
 
-The [Adobe I/O Files library](https://github.com/adobe/aio-lib-state) provides a JavaScript abstraction on top of cloud blob storages with a simple file-system like persistence API.
+The [Adobe I/O Files library](https://github.com/adobe/aio-lib-files) provides a JavaScript abstraction on top of cloud blob storages with a simple file-system like persistence API.
 
 ## Related information
 
